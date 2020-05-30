@@ -1,0 +1,5 @@
+Feature:
+  Scenario:
+    Given user is on the home page of the website
+    When user searchers insurance
+    Then user should be able to see all insurance options
